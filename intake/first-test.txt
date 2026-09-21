@@ -1,0 +1,16 @@
+Project: First AI intake test
+
+Goal:
+Create a simple automated workflow that reviews files added through a GitHub pull request.
+
+Requested tasks:
+- Summarize this file.
+- Identify the main action items.
+- Point out any missing information.
+- Recommend the next step.
+
+Deadline:
+No deadline. This is only a safe test.
+
+Constraint:
+Do not edit or merge anything automatically.
